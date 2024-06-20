@@ -3,10 +3,12 @@
 - train person action after train
 
 # File treehttps://myoctocat.com/assets/images/base-octocat.svg
+```
 Root
 ├── data
 ├── models
 └── scripts
+```
 
 # Scripts
 1. Creating base person data
